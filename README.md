@@ -45,7 +45,6 @@ a consistent transition:
 I am always open to collaboration or discussions regarding data science and
 machine learning.
 **Signed,** **Mayank Gariya** [mayankgariya482@gmail.com]
-(mailto:mayankgariya482@gmail.com)
 
 Author: Mayank Gariya
 Contact: mayankgariya482@gmail.com
