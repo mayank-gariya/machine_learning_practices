@@ -14,14 +14,12 @@ This is where the heavy lifting happens. This folder contains all my
 exercise files, modular scripts, and iterative learning steps.
 * **Advanced SQL:** Mastering PostgreSQL through complex window functions,
 CTEs, and nested subqueries for deep data analysis.
-* **Python Foundations:** Developing modular, class-based Python libraries
-for automation and utility (e.g., QR generation, custom text parsers).
 * **Skill Drilling:** Notebooks dedicated to specific ML algorithms, data
 cleaning techniques, and Exploratory Data Analysis (EDA).
 ### 2. `/projects`
 This folder houses end-to-end Machine Learning applications and high-impact
 technical projects.
-* **IoT Anomaly Detection:** Implementing time-series analysis to detect
+* **Examples - IoT Anomaly Detection:** Implementing time-series analysis to detect
 irregularities in sensor data.
 * **NLP & LLM Tools:** Applications built using the Google Gemini API to
 analyze, weight, and summarize text data effectively.
