@@ -42,7 +42,7 @@ a consistent transition:
 ### Get in Touch
 I am always open to collaboration or discussions regarding data science and
 machine learning.
-**Signed,** **Mayank Gariya** [mayankgariya482@gmail.com]
+**Signed,** 
 
 Author: Mayank Gariya
 Contact: mayankgariya482@gmail.com
