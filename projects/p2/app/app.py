@@ -21,11 +21,12 @@ st.write("---")
 
 APP_DIR = Path(__file__).resolve().parent
 P2_DIR = APP_DIR.parent
+MODELS_DIR = P2_DIR / "models"
 
 # 2. Load the Pipeline Artifacts Locally
-MODEL_PATH = str(P2_DIR / "model.joblib")        
-SCALER_PATH = str(P2_DIR / "scaler.joblib")
-ENCODER_PATH = str(P2_DIR / "label_encoder.joblib")
+MODEL_PATH = str(MODELS_DIR / "model.joblib")          
+SCALER_PATH = str(MODELS_DIR / "scaler.joblib")
+ENCODER_PATH = str(MODELS_DIR / "label_encoder.joblib")
 
 @st.cache_resource
 def load_pipeline():
