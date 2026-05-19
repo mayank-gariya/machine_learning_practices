@@ -17,10 +17,14 @@ This self-contained application utilizes an **Ensemble Stacking Machine Learning
 
 st.write("---")
 
+
+APP_DIR = Path(__file__).resolve().parent
+P2_DIR = APP_DIR.parent
+
 # 2. Load the Pipeline Artifacts Locally
-MODEL_PATH = "models/steel_faults_ensemble.joblib"
-SCALER_PATH = "models/scaler.joblib"
-ENCODER_PATH = "models/label_encoder.joblib"
+MODEL_PATH = str(P2_DIR / "model.joblib")        
+SCALER_PATH = str(P2_DIR / "scaler.joblib")
+ENCODER_PATH = str(P2_DIR / "label_encoder.joblib")
 
 @st.cache_resource
 def load_pipeline():
