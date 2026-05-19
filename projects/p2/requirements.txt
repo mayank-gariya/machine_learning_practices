@@ -1,4 +1,0 @@
-streamlit
-joblib
-scikit-learn
-pandas
