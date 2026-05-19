@@ -24,7 +24,7 @@ P2_DIR = APP_DIR.parent
 MODELS_DIR = P2_DIR / "models"
 
 # 2. Load the Pipeline Artifacts Locally
-MODEL_PATH = str(MODELS_DIR / "steel_encoder.joblib")          
+MODEL_PATH = str(MODELS_DIR / "steel_faults_ensemble.joblib")          
 SCALER_PATH = str(MODELS_DIR / "scaler.joblib")
 ENCODER_PATH = str(MODELS_DIR / "label_encoder.joblib")
 
