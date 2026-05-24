@@ -16,16 +16,8 @@ exercise files, modular scripts, and iterative learning steps.
 CTEs, and nested subqueries for deep data analysis.
 * **Skill Drilling:** Notebooks dedicated to specific ML algorithms, data
 cleaning techniques, and Exploratory Data Analysis (EDA).
-### 2. `/projects`
-This folder houses end-to-end Machine Learning applications and high-impact
-technical projects.
-* **Examples - IoT Anomaly Detection:** Implementing time-series analysis to detect
-irregularities in sensor data.
-* **NLP & LLM Tools:** Applications built using the Google Gemini API to
-analyze, weight, and summarize text data effectively.
-* **Predictive Modeling:** Supervised and unsupervised learning models
-designed for real-world datasets.
----
+
+
 ## Technical Toolkit
 
 * **Languages:** Python (Primary), SQL (PostgreSQL).
