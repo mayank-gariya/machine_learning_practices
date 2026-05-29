@@ -1,4 +1,4 @@
-# Data Science & Machine Learning: From Practice to Production
+# Data Science & Machine Learning: Practice
 Welcome to my central learning hub. This repository is a living document of.
 my journey through data science, capturing every step from foundational
 skill-building to the deployment of complex machine learning models.
