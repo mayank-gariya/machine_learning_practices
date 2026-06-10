@@ -12,11 +12,12 @@ dual nature of my work: learning and implementation.
 ### 1. `/practice`
 This is where the heavy lifting happens. This folder contains all my
 exercise files, modular scripts, and iterative learning steps.
-* **Advanced SQL:** Mastering PostgreSQL through complex window functions,
+* ** SQL:** Mastering PostgreSQL through complex window functions,
 CTEs, and nested subqueries for deep data analysis.
 * **Skill Drilling:** Notebooks dedicated to specific ML algorithms, data
 cleaning techniques, and Exploratory Data Analysis (EDA).
 
+--- 
 
 ## Technical Toolkit
 
@@ -34,7 +35,7 @@ a consistent transition:
 ### Get in Touch
 I am always open to collaboration or discussions regarding data science and
 machine learning.
-**Signed,** 
+**Signed** 
 
 Author: Mayank Gariya
 Contact: mayankgariya482@gmail.com
