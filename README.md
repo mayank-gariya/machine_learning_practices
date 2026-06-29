@@ -2,6 +2,7 @@
 Welcome to my central learning hub. This repository is a living document of.
 my journey through data science, capturing every step from foundational
 skill-building to the deployment of complex machine learning models.
+
 My goal is to bridge the gap between theoretical concepts and real-world
 application, ensuring that every line of code serves a purpose in solving
 data-driven problems.
@@ -25,6 +26,7 @@ cleaning techniques, and Exploratory Data Analysis (EDA).
 * **Environments:** Google Colab (Primary for high-compute tasks), VS Code.
 * **Key Frameworks:** Scikit-learn, Pandas, NumPy, Google Gemini API, and
 Matplotlib/Seaborn for visualization.
+
 ## The Philosophy: Learning by Applying
 I believe that true mastery comes from building. In this repo, you will see
 a consistent transition:
@@ -32,6 +34,7 @@ a consistent transition:
 2. **Apply:** Integrating those concepts into a standalone `project`.
 3. **Refine:** Continuous improvement of code modularity and performance.
 ---
+
 ### Get in Touch
 https://mayankgariya-portfolio-website.vercel.app/
 I am always open to collaboration or discussions regarding data science and
